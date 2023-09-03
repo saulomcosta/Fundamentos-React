@@ -1,0 +1,30 @@
+.TabelaProduto table {
+  width: 100%;
+  border: 1px solid black;
+  padding: 8px;
+  text-align: left;
+}
+
+.TabelaProduto th {
+  background-color: blue;
+}
+
+.Par {
+  background-color: antiquewhite;
+}
+
+.Impar {
+  background-color: grey;
+}
+
+.AlingCenter {
+  text-align: center;
+}
+
+.AlingLeft {
+  text-align: left;
+}
+
+.AlingRight {
+  text-align: right;
+}
